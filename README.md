@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub page 👋
 
 
 Hello, I'm Hyeonjeong, a Data Analyst in data analysis and reporting, query optimization, database design, and data modelling.
