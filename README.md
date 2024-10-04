@@ -1,31 +1,16 @@
-## Hi! Welcome All 👋
+# Hyeonjeong Park
 
+**Data Analyst | United Nations System Experience**
 
-Hello, I'm Hyeonjeong, a Data Analyst in data analysis and reporting, query optimization, database design, and data modelling.
+Welcome to my GitHub page! I am Hyeonjeong Park, a data analyst with a strong background in leveraging data to drive impactful decision-making. With hands-on experience in the United Nations system, I have worked on diverse projects that involve data collection, analysis, and visualization.
 
-• Querying data using SQL.
-• Generate reports and perform ad-hoc data analysis using SQL.
-• Developing dashboards on Tableau and Looker Studio.
-• Data analysis and reporting using Google Sheets and Excel.
+### Tools & Technologies:
+- **SQL**
+- **Python**
+- **R**
+- **Tableau**
 
-📚 Projects Welcome to my portfolio, where I showcase my projects.
+I am passionate about using data to create meaningful insights and deliver data-driven solutions to complex global challenges. Feel free to explore my projects and reach out through the links below:
 
-🛠️ Tools Language: SQL, Python Database: Google BigQuery, PostgreSQL, MySQL Visualization: Tableau, Looker Studio
-
-👋🏻 Connect with Me Linkedin Hire me on Upwork
-
-
-<!--
-**edenbrln/edenbrln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My Website](https://edenbrln.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/hyeonjeong-park-8a8a01197/)
