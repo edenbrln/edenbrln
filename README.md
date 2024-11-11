@@ -12,5 +12,5 @@ Welcome to my GitHub page! I am Hyeonjeong Park, a data analyst with a strong ba
 
 I am passionate about using data to create meaningful insights and deliver data-driven solutions to complex global challenges. Feel free to explore my projects and reach out through the links below:
 
-- [My Portfolio](https://edenbrln.github.io/)
+
 - [LinkedIn](https://www.linkedin.com/in/hyeonjeong-park-8a8a01197/)
