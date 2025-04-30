@@ -11,7 +11,7 @@ Welcome to my GitHub page! I am Hyeonjeong Park, a data analyst with a strong ba
 - **Tableau**
 - **Machine Learning**
 
-I am passionate about using data to create meaningful insights and deliver data-driven solutions to complex global challenges. Feel free to explore my projects and reach out through the links below:
-
+Feel free to explore my projects and reach out through the links below:
 
 - [LinkedIn](https://www.linkedin.com/in/hyeonjeong-park-8a8a01197/)
+- [Notion Portfolio] (https://fine-brand-1a1.notion.site/Portfolio-1dc2f2aef86c803d8aebecba181a2a7d)
