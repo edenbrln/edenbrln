@@ -2,7 +2,7 @@
 
 **Data Analyst | United Nations System Experience 🇺🇳**
 
-Welcome to my GitHub page! I am Hyeonjeong Park, a data analyst with a strong background in leveraging data to drive impactful decision-making. With hands-on experience in the United Nations system, I have worked on diverse projects that involve data collection, analysis, and visualization. 💻📊
+Welcome to my GitHub page! I am Dongjoo Park, a data analyst with a strong background in leveraging data to drive impactful decision-making. With hands-on experience in the United Nations system, I have worked on diverse projects that involve data collection, analysis, and visualization. 💻📊
 
 ### Tools & Technologies:
 - **SQL**
