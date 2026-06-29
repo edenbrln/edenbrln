@@ -2,10 +2,10 @@
 
 **Data Science (MS candidate) × International Relations** — built for development data work.
 
-Field experience with UNFPA Kyrgyzstan.
-Projects in collaboration with UNFPA Türkiye, UNDP Thailand. 
+Field experience with UNFPA Kyrgyzstan.  
+Projects in collaboration with UNFPA Türkiye, UNDP Thailand.  
 Pursuing an MS in Data Science at Pusan National University (exp. 2028),  
-working at the intersection of **geospatial analysis, NLP, and evidence-based policy**.
+working at the intersection of **geospatial analysis, NLP, and evidence-based policy**.  
 
 ---
 
