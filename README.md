@@ -1,4 +1,4 @@
-# Hi, I'm Dongju 👋
+# Hi, I'm Dongju!
 
 **Data Science (MS candidate) × International Relations** — built for development data work.
 
