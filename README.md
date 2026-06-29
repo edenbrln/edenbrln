@@ -41,11 +41,11 @@ working at the intersection of **geospatial analysis, NLP, and evidence-based po
 
 ## Featured Projects
 
-- **[Residential Infrastructure Inequality in Cameroon](https://github.com/edenbrln/cameroon-infrastructure)** *(in progress)*  
+- **[Residential Infrastructure Inequality Analysis in Douala and Yaoundé, Cameroon](https://github.com/edenbrln/cameroon-infrastructure)** *(in progress)*  
   Satellite-based analysis of infrastructure gaps in Douala & Yaoundé using NASA VIIRS, OSM, and WorldPop data  
   `Python` `Google Earth Engine` `OpenStreetMap` `Tableau`
 
-- **[Urban Park Demand Forecasting, Busan](https://github.com/edenbrln/busan-park-demand)** *(in progress)*  
+- **[Urban Park Demand Forecasting for Public Space Planning in Busan](https://github.com/edenbrln/busan-park-demand)** *(in progress)*  
   Predicting public space demand using weather and population data for city planning  
   `Python` `Public Data Portal API` `KMA API`
 
