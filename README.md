@@ -53,7 +53,7 @@ working at the intersection of **geospatial analysis, NLP, and evidence-based po
   Data analysis on Active Ageing Index (YYI) and youth indices across multiple countries  
   `Python` `Excel`
 
-- **[UNDP Climate Governance of Youth, Asia-Pacific]([https://github.com/edenbrln/undp-climate-youth](https://www.undp.org/asia-pacific/publications/navigating-climate-governance-insights-young-leaders-asia-pacific-region))**  
+- **[UNDP Climate Governance of Youth, Asia-Pacific](https://www.undp.org/asia-pacific/publications/navigating-climate-governance-insights-young-leaders-asia-pacific-region)**  
   Regional analysis of youth participation in climate governance across Asia-Pacific  
   `Python` `Google Sheets`
 
