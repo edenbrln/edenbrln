@@ -58,14 +58,14 @@ working at the intersection of **evidence-based policy**.
   `Python` `Google Sheets`
 
 ---
-
+<!--
 ## GitHub Stats
 
 ![Dongju's GitHub Stats](https://github-readme-stats-one-ebon-26.vercel.app/api?username=edenbrln)
 ![Top Languages](https://github-readme-stats-one-ebon-26.vercel.app/api/top-langs/?username=edenbrln)
 
 ---
-
+-->
 ## Background
 
 - 🎓 BA in International Relations, Changwon National University
