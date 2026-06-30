@@ -61,7 +61,7 @@ working at the intersection of **evidence-based policy**.
 
 ## GitHub Stats
 
-![Dongju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edenbrln&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Dongju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edenbrln&show_icons=true&theme=default&hide_border=true&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edenbrln&layout=compact&theme=default&hide_border=true)
 
 ---
