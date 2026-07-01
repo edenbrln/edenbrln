@@ -41,7 +41,7 @@ working at the intersection of **evidence-based policy**.
 
 ## Featured Projects
 
-- **[Residential Infrastructure Inequality Analysis in Douala and Yaoundé, Cameroon](https://github.com/edenbrln/cameroon-infrastructure)** *(in progress)*  
+- **[Residential Infrastructure Inequality Analysis in Douala and Yaoundé, Cameroon](https://github.com/edenbrln/cameroon-infra-geospatial)** *(in progress)*  
   Satellite-based analysis of infrastructure gaps in Douala & Yaoundé using NASA VIIRS, OSM, and WorldPop data  
   `Python` `Google Earth Engine` `OpenStreetMap` `Tableau`
 
