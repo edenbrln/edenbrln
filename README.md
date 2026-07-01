@@ -77,4 +77,4 @@ working at the intersection of **evidence-based policy**.
 
 ---
 
-*Interested in: UN system · development banks · evidence-based policy*
+*Interested in: international development · evidence-based policy*
